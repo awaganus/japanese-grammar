@@ -33,6 +33,7 @@ japanese-grammar/
   ├── manabou-nihongo/   # 『学ぼう！にほんご』の文型整理
   ├── LICENSE            # ライセンス情報
   └── README.md          # 本リポジトリの説明
+```
 
 ---
 
@@ -91,6 +92,7 @@ https://github.com/awaganus/japanese-grammar
 または、HTMLで記載する場合：
 ```html
 <p>このコンテンツは<a href="https://github.com/awaganus/japanese-grammar">awaganus</a>により<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>のもとで提供されています。</p>
+```
 
 ## ✅ **どうしてライセンス情報を明記するの？**
 📌 **リポジトリの利用者が、どう使っていいのかを明確にできる**  
